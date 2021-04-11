@@ -4,6 +4,8 @@ A basic how-to guide for Qlikview.
 
 Everything you need to create dashboards, starting on a good foundation, easy to read and maintain.
 
+I thank [Alexander_Thor](https://github.com/mindspank) for sharing these resources with the Qlik community.
+
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 ![Qlikview](./images/qlik-logo-256.png)
